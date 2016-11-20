@@ -1,5 +1,5 @@
 @author Jonathan Ho
-@email	housuilun@yahoo.com
+@email	jonwho.contact@gmail.com
 
 This program is a game written in C# using XNA game studios. In this
 repo are the classes my team and I made. We were given around 4 weeks
